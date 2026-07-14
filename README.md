@@ -1,22 +1,14 @@
-# LE
+LE – HOME-System
 
-LE ist ein System zur Darstellung von GHOST‑SCAN‑Lagen und Cluster‑Analysen.
+LE ist die HOME-Station des 698869-Systems.
 
-## Dateien
+SET + IN = LAGE
+LAGE + LE = HOME
 
-- index.html – GHOST‑SCAN
-- fin.e.js – Kernel
-- RESPO/ – Cluster‑Daten
-- ID.html – ID‑Matrix
-
-## Funktion
-
-LE lädt RESPO‑Cluster und zeigt:
-
+LE zeigt:
 - ID
 - LAGE
 - STATUS
 - RESULT
 - OUT
 - WAHRHEIT
-- EDIT
