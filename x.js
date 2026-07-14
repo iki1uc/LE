@@ -1,1 +1,1 @@
-698869 = pos → wechsel → t → go → le → z
+export const X = 6; // pos
